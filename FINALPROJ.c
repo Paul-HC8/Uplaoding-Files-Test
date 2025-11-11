@@ -4,7 +4,10 @@
 #include <unistd.h>
 
 
+// COMMENT LANG FOR V2 :>
+
 // DIGIAL CLOCK
+printf("COMMENT FOR V2 :> \n");
 
 int main(){
 
